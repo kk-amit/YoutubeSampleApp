@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyYoutubeApp</string>
+
+    <!-- APP Menu items -->
+    <string name="search_title">Search</string>
+    <!-- Search Screen -->
+    <string name="str_search_msg">Search for Yuotube Video</string>
+    <string name="srt_app_desc">This is the Sample Project for Youtube V3 Library. \n\nUsing this sample project you can perform the following operations with Youtube V3 library.\n\n1 - Search Youtube Video.\n2 - Play Youtube Video.\n3 - List Favorite Youtube.\n\nTo use this Sample Project we required the Contact Request as we are using the Email Id to authenticate the Youtube V3 API calls. So for Android 6.0 and above if user not provided the Contact permission this application will not works.</string>
+
+    <string name="str_start">Start</string>
+</resources>
