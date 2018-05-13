@@ -15,7 +15,7 @@ To use this Sample Project we required the Contact Request as we are using the E
 
 As per requirement I have created the list and attached the screen-shot 
 
-<img src="https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_1.png" width="300"> <img src="https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_2.png" width="300">
+<img src="https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_1.png" width="300">		<img src="https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_2.png" width="300">
 <img src="https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_3.png" width="300">
 <img src="https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_4.png" width="300">
 <img src="https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_5.png" width="300">
