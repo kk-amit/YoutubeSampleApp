@@ -13,7 +13,7 @@ To use this Sample Project we required the Contact Request as we are using the E
 
 As per requirement I have created the list and attached the screen-shot 
 
-![Alt text](https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_1.png "Screen 1" height="48" width="48")
+![Alt text](https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_1.png "Screen 1")
 ![Alt text](https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_2.png "Screen 2")
 ![Alt text](https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_3.png "Screen 3")
 ![Alt text](https://github.com/kk-amit/YoutubeSampleApp/blob/master/IMG_4.png "Screen 4")
