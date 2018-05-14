@@ -68,6 +68,7 @@ public class APIAsynTask extends AsyncTask<String, Void, SearchResponseData> {
             System.out.println(response);
         } catch (Exception e) {
             searchResponseData.setException(e);
+            listener.onCanceled(e);
         }
         searchResponseData.setSearchListResponse(response);
         return searchResponseData;
